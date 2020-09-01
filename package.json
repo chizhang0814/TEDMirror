@@ -57,7 +57,7 @@
     "time-grunt": "latest"
   },
   "optionalDependencies": {
-    "electron": "^6.1.7"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "colors": "^1.1.2",
