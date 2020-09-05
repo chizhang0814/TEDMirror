@@ -9,9 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "buffer-from": "^1.1.1",
     "crypto-js": "^3.1.9-1",
+    "get-user-media-promise": "^1.1.4",
     "log4node": "^0.1.6",
-    "mic-stream": "^1.0.2",
+    "microphone-stream": "^5.0.1",
+    "node-audiorecorder": "^2.2.0",
+    "readable-stream": "^3.6.0",
+    "single-line-log": "^1.1.2",
+    "window": "^4.2.7",
     "ws": "^7.1.2"
   }
 }
