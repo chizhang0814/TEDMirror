@@ -77,4 +77,6 @@ Temporary Items
 *.rej
 *.bak
 
+##rtasr
+rtasr_ws_nodejs_demo/examples-recordings/*
 !/tests/node_modules/**/*
